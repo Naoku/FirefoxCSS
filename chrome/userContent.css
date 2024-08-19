@@ -1,0 +1,6 @@
+@-moz-document url(chrome://browser/content/browser.xul), url(about:newtab), url(about:home),url(about:privatebrowsing) {  
+	body{
+        background-size: cover !important;
+        background-image: url("wallpaper/tm69aost3sea1.png")!important;
+    }
+}
